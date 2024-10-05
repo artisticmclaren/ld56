@@ -1,0 +1,6 @@
+    === LUDUM DARE 56 ====
+=== THEME: TINY CREATURES ===
+
+- tiny spiders come down the screen and you have to squish them 
+- platformer where you control tons of different little players
+- top down shooter where you have to kill tons of small enemies
